@@ -1,0 +1,9 @@
+# Personal config — never commit, contains local paths
+config.json
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
