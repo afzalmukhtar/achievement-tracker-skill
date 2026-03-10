@@ -47,7 +47,7 @@ A `config.json` is created locally (gitignored) after first-time setup:
 
 ## Achievements storage
 
-Achievements are stored in a **separate private repo**: [`afzalmukhtar/achievements`](https://github.com/afzalmukhtar/achievements)
+A **separate private GitHub repository** called `achievements` holds all your accomplishments and achievements. You create this once during onboarding — it stays private and is yours to push to whenever you want.
 
 ```
 achievements/
